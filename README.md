@@ -20,6 +20,9 @@
 
 ## 📌 Overview
 
+<img width="2559" height="1435" alt="image" src="https://github.com/user-attachments/assets/5d6dc5a3-6a5f-4003-9e3f-9700d533ae75" />
+
+
 ORCA (Marine EcOsystem Reasoning with Collaborative Agents) is a multi-agent marine intelligence prototype designed to bring ocean observations, weather forecasts and geospatial context into one interactive workspace.
 
 A user can explore forecast conditions across a coastal grid, inspect individual locations, ask natural-language questions and view model-assisted explanations. ORCA coordinates specialist agents for ocean data, weather and safety context, and geospatial analysis. A marine analyst combines the available evidence into a readable response.
