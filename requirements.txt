@@ -1,0 +1,11 @@
+openai
+python-dotenv
+langgraph
+requests
+fastapi
+uvicorn[standard]
+pydantic
+numpy
+scipy
+xarray
+copernicusmarine
