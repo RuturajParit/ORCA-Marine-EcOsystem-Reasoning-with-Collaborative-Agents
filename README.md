@@ -2,7 +2,7 @@
 
 # 
 
- ORCA 🌊
+### __ORCA__ 🌊
 ### Marine EcOsystem Reasoning with Collaborative Agents
 
 **An AI-assisted marine intelligence and decision-support platform for India's coastline.**
