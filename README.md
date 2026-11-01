@@ -1,6 +1,8 @@
 <div align="center">
 
-# ORCA 🌊
+# 
+
+ 🌊
 ### Marine EcOsystem Reasoning with Collaborative Agents
 
 **An AI-assisted marine intelligence and decision-support platform for India's coastline.**
@@ -20,7 +22,8 @@
 
 ## 📌 Overview
 
-<img width="2559" height="1435" alt="image" src="https://github.com/user-attachments/assets/5d6dc5a3-6a5f-4003-9e3f-9700d533ae75" />
+
+https://github.com/user-attachments/assets/fe904401-d11e-4723-900e-163d6e8d1a0f
 
 
 ORCA (Marine EcOsystem Reasoning with Collaborative Agents) is a multi-agent marine intelligence prototype designed to bring ocean observations, weather forecasts and geospatial context into one interactive workspace.
